@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 const spaceGrotesk = Space_Grotesk({ subsets: ['latin'], weight: ['300','400', '500', '600', '700',]})
 
 export const metadata: Metadata = {
-  title: 'Price Clue',
+  title: 'Shop Clue',
   description: 'Track Product Prices Effortlessly and Save Money on Your Online Shopping',
 }
 

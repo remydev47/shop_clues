@@ -48,7 +48,7 @@ const Home = () => {
 export default Home;
 
 const styles = {
-  wrapper: `px-5 md:px-20 py-24 border-2 border-red-500`,
+  wrapper: `px-5 md:px-20 py-24 border-2 `,
   outerwrapper:`flex max-xl:flex-col gap-16`,
   innerwrapper:`flex flex-col justify-center`,
   paragraph:`small-text`,
